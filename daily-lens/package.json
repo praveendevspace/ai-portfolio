@@ -1,0 +1,1 @@
+{"name":"daily-lens","private":true,"type":"module","scripts":{"check":"node --check worker/index.js"}}
