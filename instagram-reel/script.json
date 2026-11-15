@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0,
+    "end": 3.3333333333333335,
+    "speaker": "both",
+    "text": "Human versus AI. Who really has the edge?"
+  },
+  {
+    "start": 3.3333333333333335,
+    "end": 7.208333333333334,
+    "speaker": "robot",
+    "text": "I can process text and generate ideas in seconds."
+  },
+  {
+    "start": 7.208333333333334,
+    "end": 11.666666666666668,
+    "speaker": "human",
+    "text": "I bring lived experience, feelings, and personal context."
+  },
+  {
+    "start": 11.666666666666668,
+    "end": 15.125000000000002,
+    "speaker": "robot",
+    "text": "I can remix patterns into new possibilities."
+  },
+  {
+    "start": 15.125000000000002,
+    "end": 18.833333333333336,
+    "speaker": "human",
+    "text": "I bring purpose, taste, and a reason to create."
+  },
+  {
+    "start": 18.833333333333336,
+    "end": 21.875000000000004,
+    "speaker": "robot",
+    "text": "I can sound confident and still be wrong."
+  },
+  {
+    "start": 21.875000000000004,
+    "end": 26.083333333333336,
+    "speaker": "human",
+    "text": "So I question, verify, and take responsibility."
+  },
+  {
+    "start": 26.083333333333336,
+    "end": 30.375000000000004,
+    "speaker": "both",
+    "text": "The strongest team? Human judgment, with AI assistance."
+  }
+]
